@@ -1,4 +1,4 @@
-# Lab-Stat-analysis-tool
+# Lei-lab
 lab statistic supply by Ziqiao Sun
 
 
