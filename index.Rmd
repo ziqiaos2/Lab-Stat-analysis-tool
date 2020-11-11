@@ -10,8 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-## lab overview
-
 ## Main research focus
 
 - Molecular nutrition of selenium and functional genomics of antioxidant enzymes
