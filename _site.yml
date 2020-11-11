@@ -4,10 +4,9 @@ navbar:
   left:
     - text: "Main page"
       href: index.html
-    - text: "People"
-      href: people.html
     - text: "Publication"
       href: publication.html
+
 output_dir: "."
 output:
   html_document:
