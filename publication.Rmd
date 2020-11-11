@@ -1,0 +1,17 @@
+---
+title: "Publication"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- Lei, X., Xiao, C., Lei, X. G., Wang, Q., Du, Z., Jiang, L., Chen, S., Zhang, M., Zhang, H., & Ren, F. Z. (2016). Effects of a tripeptide iron on iron-deficiency anemia in rats. Biological Trace Element Research. 169:211-217.
+- Lei, X., Mai, H. N., Jeong, J. H., Kim, D. J., Chung, Y. H., Shin, E. J., Nguyen, L. T., Nam, Y., Lee, Y. J., Cho, E. H., Nah, S. Y., Jang, C. G., Lei, X., & Kim. 2016., H. C. (2016). 
+- Genetic overexpressing of GPx-1 attenuates cocaine-induced renal toxicity via induction of anti-apoptotic factors. CEPP: Clinical and Experimental Pharmacology and Physiology. 43:428–437.
+- Lei, X., Zhao, Z. P., Barcus, M., Kim, J. G., Lum, K., Mills, C., & Lei, X. G. (2016). High dietary selenium intake alters lipid metabolism and protein synthesis in liver and muscle of pigs. JN: The Journal of Nutrition. 146:1625-1633.
+- Kim, J. G., Magnuson, A., Tao, L., Barcus, M., & Lei, X. (2016). Potential of combining flaxseed oil and microalgal biomass in producing eggs-enriched with n-3 fatty acids for meeting human needs. Algal Research. 17:31-37.
+- Lei, X., Nguyen, T. H., Mai, H. N., J. Shin, E., Nam, Y., Nguyen, B. T., Lee, Y. J., Jeong, H., Cho, E. H., Nah, S. Y., Lei, X. G., T. Nabeshima, T., Kim, N. H., & Kim, H. C. (2016). Repeated exposure to far infrared ray attenuates acute restraint stress in mice via inhibition of JAK2/STAT3 signaling pathway by induction of glutathione peroxidase-1. Neurochem. Int.. 94:9-22.
+- more publications ([via](https://www.researchgate.net/profile/Xin_Lei3))

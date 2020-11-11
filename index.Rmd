@@ -1,0 +1,37 @@
+---
+author: "Ziqiao Sun"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_document
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+
+
+## lab overview
+
+## Main research focus
+
+- Molecular nutrition of selenium and functional genomics of antioxidant enzymes
+- Overexpress and engineer phytases and proteases for improving mineral (P, Ca, Fe, and Zn) and protein nutrition and to protect environmental pollution of animal waste. 
+- Global food and nutrition security, along with exploring new biofuel sources
+
+## More Info
+
+Our research mission covers both basic and translational aspects of nutritional genomics. The scope spans from the fundamental mechanisms of antioxidant nutrients and enzymes in metabolism and pathogenesis of chronic diseases, to the development of novel hydrolytic enzymes and alternative feed/food protein sources.
+
+We are actively involved in the global biofortification of staple crops with the micronutrients iron, zinc, and pro-vitamin A. Our experimental models include food-producing species pigs and chickens, laboratory species rats and gene-knockout mice, primary and cultured cells, yeast, and bacteria, while our approaches consist of nutritional, molecular, biochemical, biophysical, and physiological methods, along with cutting-edge genomics, proteomics, and bioinformatics. Our findings aim at directly improving human health, food security, and environmental sustainability worldwide.
+
+## Recent news
+![researching how microalgae can be used as protein-rich feed for chickens.](https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2019-11/1106_xingen.jpg?itok=5wDJzXjG)
+Cornell partners in $10M poultry science grant ([details via](https://news.cornell.edu/stories/2019/11/cornell-partners-10m-poultry-science-grant))
+

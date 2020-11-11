@@ -1,0 +1,17 @@
+name: "Lab-website"
+navbar:
+  title: "Lei Lab Website"
+  left:
+    - text: "Main page"
+      href: index.html
+    - text: "People"
+      href: people.html
+    - text: "Publication"
+      href: publication.html
+output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
