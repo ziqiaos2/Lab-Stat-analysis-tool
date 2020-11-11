@@ -1,5 +1,5 @@
 # Lei-lab
-lab statistic supply by Ziqiao Sun
+lab overview 
 
 
 Hi All,
