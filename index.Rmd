@@ -1,19 +1,12 @@
 ---
-author: "Ziqiao Sun"
+title: "lab Overview"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_document
-vignette: >
-  %\VignetteIndexEntry{Vignette Title}
-  %\VignetteEngine{knitr::rmarkdown}
-  %\VignetteEncoding{UTF-8}
+output: html_document
 ---
 
-```{r setup, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>"
-)
-```
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+````
 
 
 
@@ -32,6 +25,10 @@ Our research mission covers both basic and translational aspects of nutritional 
 We are actively involved in the global biofortification of staple crops with the micronutrients iron, zinc, and pro-vitamin A. Our experimental models include food-producing species pigs and chickens, laboratory species rats and gene-knockout mice, primary and cultured cells, yeast, and bacteria, while our approaches consist of nutritional, molecular, biochemical, biophysical, and physiological methods, along with cutting-edge genomics, proteomics, and bioinformatics. Our findings aim at directly improving human health, food security, and environmental sustainability worldwide.
 
 ## Recent news
+<details>
+<summary> Awarded a $9.95 million, five-year U.S. Department of Agriculture (USDA) grant</summary>
 ![researching how microalgae can be used as protein-rich feed for chickens.](https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/2019-11/1106_xingen.jpg?itok=5wDJzXjG)
 Cornell partners in $10M poultry science grant ([details via](https://news.cornell.edu/stories/2019/11/cornell-partners-10m-poultry-science-grant))
+</details>
+
 
